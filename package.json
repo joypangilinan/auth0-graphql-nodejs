@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/joypangilinan/auth0-graphql-nodejs#readme",
   "dependencies": {
-    "apollo-server-express": "^2.11.0",
+    "apollo-server-express": "^2.14.2",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
